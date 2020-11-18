@@ -21,4 +21,4 @@ _Data used in the analyses are publicly available and previously published. Clin
 -R script to reproduce model predictions provided in manuscript Results including:
 ## Primary outcome: Model-predicted EAC cases in year 2010, ages 40-90
 ## Secondary outcome: Model-predicted BE cases in year 2010
--Also provides code to reproduce model-predictions for Figures 3, S1, S2
+-Also provides code to reproduce model-predictions for Figure 3, Figure S1, and Figure S2

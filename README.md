@@ -16,6 +16,11 @@ Email: kcurtius@health.ucsd.edu
 
 _Data used in the analyses are publicly available and previously published. Clinical Outcomes Research Initiative values published in Rubenstein et al. 2010 Ref. 20_
 
+### am_parameter_list_2020.R
+- Parameters for stochastic rates of normal to OAC development in men
+
+### af_parameter_list_2020.R
+- Parameters for stochastic rates of normal to OAC development in women
 
 ### BEtoEAC_numbers_2020_Gut.R
 -R script to reproduce model predictions provided in manuscript Results including:

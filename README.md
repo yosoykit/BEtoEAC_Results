@@ -1,8 +1,8 @@
-# Computational modelling suggests that Barrett's oesophagus is the precursor of all oesophageal adenocarcinomas 
+# Computational modelling suggests that Barrett's oesophagus may be the precursor of all oesophageal adenocarcinomas 
 
 These are the scripts written and used to implement analyses for the multistage clonal espansion for EAC (MSCE-EAC) model as part of the manuscript:
 
-"Computational modelling suggests that Barrett's oesophagus is the precursor of all oesophageal adenocarcinomas"
+"Computational modelling suggests that Barrett's oesophagus may be the precursor of all oesophageal adenocarcinomas"
 
 Authors:  Kit Curtius, Joel H Rubenstein, Amitabh Chak, John M Inadomi
 
